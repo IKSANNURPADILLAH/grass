@@ -11,7 +11,7 @@ This repository contains the code for `getgrass-bot`, a bot designed to establis
 1. Clone this repository to your local machine:
 
    ```bash
-   https://github.com/IKSANNURPADILLAH/grass.git
+   git clone https://github.com/IKSANNURPADILLAH/grass.git
    ```
 
 2. Navigate to the project directory:
